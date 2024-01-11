@@ -1,4 +1,4 @@
-<?php
+cd <?php
 
 use PHPUnit\Framework\TestCase;
 use Pubconnect\IsbnUrn\IsbnUrn;
