@@ -3,7 +3,7 @@ cd <?php
 use PHPUnit\Framework\TestCase;
 use Pubconnect\IsbnUrn\IsbnUrn;
 
-require_once 'src/IsbnUrn.class.php';
+require_once 'src/IsbnUrn.php';
 
 /*
  * @example UPDATE :: a existing URN string
